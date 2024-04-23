@@ -1,0 +1,3 @@
+create database employee;
+use employee;
+create table empdata (id int, name varchar(40),age int(2),mob_no varchar(10),gender varchar(4), father_name varchar (40), mother_name varchar (40),salary int, password char(32));
